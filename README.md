@@ -1,3 +1,2 @@
-# timerbarcomponent
+# Timer Progress Bar Component
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/timerbarcomponent)
